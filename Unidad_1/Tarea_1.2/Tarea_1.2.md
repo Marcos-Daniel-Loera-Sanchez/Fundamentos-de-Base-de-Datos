@@ -34,9 +34,9 @@
 
 ## 3. Arquitectura de Tres Niveles (ANSI/SPARC) La arquitectura ANSI/SPARC establece tres niveles de abstracción para garantizar la independencia entre los programas de aplicación y los datos físicos almacenados [3]: 
 
-![Arquitectura ANSI/SPARC](./arquitectura\_ansi\_sparc.svg) 
+![Arquitectura ANSI/SPARC](./diagramas/arquitectura_ansi_sparc.svg) 
 
-*✏️ **Fuente editable en código:** [`arquitectura_ansi_sparc.drawio`](./arquitectura\_ansi\_sparc.drawio) 
+*✏️ **Fuente editable en código:** [`arquitectura_ansi_sparc.drawio`](./diagramas/arquitectura_ansi_sparc.drawio) 
 
 ### 3.1. Niveles de Abstracción y Flujo de Datos 
 * **Nivel Físico (Interno):** Describe las estructuras de almacenamiento primario, índices y organización de archivos en disco. * **Nivel Conceptual:** Representa la estructura lógica global de la base de datos (entidades, atributos, relaciones y restricciones de integridad).
@@ -47,9 +47,9 @@
 
 ## 4. Arquitectura Funcional del SGBD y sus Módulos El SGBD está constituido por componentes funcionales que procesan las peticiones SQL y coordinan el acceso al almacenamiento [3, 5]: 
 
-![Arquitectura Funcional del SGBD](./arquitectura_sgbd.svg) 
+![Arquitectura Funcional del SGBD](./diagramas/arquitectura_sgbd.svg) 
 
-✏️ **Fuente editable en código:** [`arquitectura_sgbd.drawio`](./arquitectura_sgbd.drawio) 
+✏️ **Fuente editable en código:** [`arquitectura_sgbd.drawio`](./diagramas/arquitectura_sgbd.drawio) 
 
 ### 4.1\. Módulos Internos 
 * **Procesador de Consultas:\*\* Parsea, compila y traduce las sentencias SQL expresadas por los usuarios.
