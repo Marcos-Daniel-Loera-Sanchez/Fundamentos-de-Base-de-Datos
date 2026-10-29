@@ -16,8 +16,11 @@
 
 ## 2. Clasificación de las Bases de Datos 
 
-### 2.1. Cuadro Sinóptico de Clasificación ![Cuadro Sinóptico de Clasificación](./cuadro_sinoptico.svg) 
-* ✏️ **Fuente editable en código:** [`cuadro_sinoptico.drawio`](./cuadro_sinoptico.drawio)
+### 2.1. Cuadro Sinóptico de Clasificación 
+
+![Cuadro Sinóptico de Clasificación](./diagramas/cuadro_sinoptico.svg) 
+
+* ✏️ **Fuente editable en código:** [`cuadro_sinoptico.drawio`](./diagramas/cuadro_sinoptico.drawio)
 
 ### 2.2. Descripción de las Clasificaciones 
 1. **Según la Ubicación de los Datos:**
