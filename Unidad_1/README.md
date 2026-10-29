@@ -17,10 +17,14 @@
 ### 🔹 [Actividad 1.2: Clasificación y Arquitecturas (ANSI/SPARC y SGBD)](./Tarea_1.2/README.md) 
 * 📄 **Reporte en Código Markdown:** [`Tarea_1_2.md`](./Tarea_1.2/Tarea_1.2.md)
 * 📄 **Documento PDF Formal:** [`Reporte_Tarea_1_2.pdf`](./Tarea_1.2/Reporte_Tarea_1.2.pdf)
+* 🖼️ **Imagen Visual:**
+* [`cuadro_sinoptico.svg`](./Tarea\_1.2/diagramas/cuadro\_sinoptico.svg) 
+* [`arquitectura_ansi_sparc.svg`](./Tarea\_1.2/diagramas/arquitectura\_ansi\_sparc.svg) 
+* [`arquitectura_sgbd.svg`](/Tarea\_1.2/diagramas/arquitectura\_sgbd.svg)
 * ✏️ **Fuentes Editables de Arquitecturas:**
 * [`cuadro_sinoptico.drawio`](./Tarea\_1.2/diagramas/cuadro\_sinoptico.drawio) 
-* [`arquitectura_ansi_sparc.drawio`](./Tarea\_1.2/Diagramas/arquitectura\_ansi\_sparc.drawio) 
-* [`arquitectura_sgbd.drawio`](/Tarea\_1.2/Diagramas/arquitectura\_sgbd.drawio)
+* [`arquitectura_ansi_sparc.drawio`](./Tarea\_1.2/diagramas/arquitectura\_ansi\_sparc.drawio) 
+* [`arquitectura_sgbd.drawio`](/Tarea\_1.2/diagramas/arquitectura\_sgbd.drawio)
 * * 🎥 **Video Explicativo en YouTube:** [Ver Exposición en YouTube]([suspicious link removed]) *(Captura + Cámara Web)*
 
 --- 
