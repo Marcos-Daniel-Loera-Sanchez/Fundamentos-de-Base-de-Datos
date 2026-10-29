@@ -1,11 +1,12 @@
 # Tarea 1.1: Fundamentos, Objetivos y Modelos de Bases de Datos 
-
 **Asignatura:** Fundamentos de Bases de Datos
 
 **Unidad:** Unidad 1: Introducción a las bases de datos
 
 **Estudiante:** [Marcos Daniel Loera Sanchez] 
-**Matrícula:** [I24050383] 
+
+**Matrícula:** [I24050383]
+
 **Profesor:** [Nombre del Profesor]  
 
 --- 
