@@ -1,8 +1,11 @@
 # Tarea 1.1: Fundamentos, Objetivos y Modelos de Bases de Datos 
 
 **Asignatura:** Fundamentos y Arquitectura de Bases de Datos 
+
 **Unidad 1:** Introducción a las bases de datos 
+
 **Estudiante:** Marcos Daniel Loera Sanchez 
+
 **Profesor:** [Nombre del Docente] 
 
 --- 
