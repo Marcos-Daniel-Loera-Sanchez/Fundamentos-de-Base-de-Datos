@@ -36,8 +36,8 @@ El presente reporte analiza los conceptos fundamentales, los objetivos principal
 --- 
 
 ## 3. Mapa Conceptual Analítico A continuación se presenta la representación gráfica de los fundamentos, objetivos y aplicaciones de las bases de datos: 
-* 🖼️ **Imagen Visual** [`mapa_conceptual.svg`](./Tarea_1.1/mapa_conceptual.svg)
-* ✏️ **Fuente Editable del Diagrama:** [`mapa_conceptual.drawio`](./Tarea_1.1/mapa_conceptual.drawio)
+* 🖼️ **Imagen Visual** [`mapa_conceptual.svg`](../Tarea_1.1/mapa_conceptual.svg)
+* ✏️ **Fuente Editable del Diagrama:** [`mapa_conceptual.drawio`](../Tarea_1.1/mapa_conceptual.drawio)
 
 --- 
 
