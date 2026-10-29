@@ -16,8 +16,8 @@
 * 📄 **Reporte en Código Markdown:** [`Tarea_1_2.md`](./Tarea_1.2/Tarea_1_2.md)
 * 📄 **Documento PDF Formal:** [`Reporte_Tarea_1_2.pdf`](./Tarea_1.2/Reporte_Tarea_1_2.pdf)
 * ✏️ **Fuentes Editables de Arquitecturas:**
-* [`cuadro_sinoptico.drawio`](./Tarea\_1.2/diagramas/cuadro\_sinoptico.drawio) \
-* [`arquitectura_ansi_sparc.drawio`](./Tarea\_1.2/diagramas/arquitectura\_ansi\_sparc.drawio) \*
+* [`cuadro_sinoptico.drawio`](./Tarea\_1.2/diagramas/cuadro\_sinoptico.drawio) 
+* [`arquitectura_ansi_sparc.drawio`](./Tarea\_1.2/diagramas/arquitectura\_ansi\_sparc.drawio) 
 * [`arquitectura_sgbd.drawio`](/Tarea\_1.2/diagramas/arquitectura\_sgbd.drawio)
 * * 🎥 **Video Explicativo en YouTube:** [Ver Exposición en YouTube]([suspicious link removed]) *(Captura + Cámara Web)*
 
