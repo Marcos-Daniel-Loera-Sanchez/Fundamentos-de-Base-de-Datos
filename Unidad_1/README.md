@@ -7,8 +7,8 @@
 ### 🔹 [Actividad 1.1: Fundamentos, Objetivos y Modelos de BD](./Tarea_1.1/README.md)  
 * 📄 **Reporte en Código Markdown:** [`Tarea_1_1.md`](./Tarea_1.1/Tarea_1.1.md)
 * 📄 **Documento PDF Formal:** [`Reporte_Tarea_1_1.pdf`](./Tarea_1.1/Reporte_Tarea_1.1.pdf)
-* 🖼️ **Imagen Visual** [`mapa_conceptual.svg`](./Tarea_1.1/mapa_conceptual.svg)
-* ✏️ **Fuente Editable del Diagrama:** [`mapa_conceptual.drawio`](./Tarea_1.1/mapa_conceptual.drawio)
+* 🖼️ **Imagen Visual** [`mapa_conceptual.svg`](./Tarea_1.1/Diagramas/mapa_conceptual.svg)
+* ✏️ **Fuente Editable del Diagrama:** [`mapa_conceptual.drawio`](./Tarea_1.1/Diagramas/mapa_conceptual.drawio)
 * 🎥 **Video Explicativo en YouTube:** [Ver Exposición en YouTube]([suspicious link removed]) *(Captura + Cámara Web)*
 
 --- 
@@ -18,8 +18,8 @@
 * 📄 **Documento PDF Formal:** [`Reporte_Tarea_1_2.pdf`](./Tarea_1.2/Reporte_Tarea_1_2.pdf)
 * ✏️ **Fuentes Editables de Arquitecturas:**
 * [`cuadro_sinoptico.drawio`](./Tarea\_1.2/diagramas/cuadro\_sinoptico.drawio) 
-* [`arquitectura_ansi_sparc.drawio`](./Tarea\_1.2/diagramas/arquitectura\_ansi\_sparc.drawio) 
-* [`arquitectura_sgbd.drawio`](/Tarea\_1.2/diagramas/arquitectura\_sgbd.drawio)
+* [`arquitectura_ansi_sparc.drawio`](./Tarea\_1.2/Diagramas/arquitectura\_ansi\_sparc.drawio) 
+* [`arquitectura_sgbd.drawio`](/Tarea\_1.2/Diagramas/arquitectura\_sgbd.drawio)
 * * 🎥 **Video Explicativo en YouTube:** [Ver Exposición en YouTube]([suspicious link removed]) *(Captura + Cámara Web)*
 
 --- 
