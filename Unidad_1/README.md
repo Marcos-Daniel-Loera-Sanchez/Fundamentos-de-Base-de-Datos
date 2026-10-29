@@ -9,6 +9,7 @@
 * 📄 **Documento PDF Formal:** [`Reporte_Tarea_1_1.pdf`](./Tarea_1.1/Reporte_Tarea_1.1.pdf)
 * 🖼️ **Imagen Visual** [`mapa_conceptual.svg`](./Tarea_1.1/Diagramas/mapa_conceptual.svg)
 * ✏️ **Fuente Editable del Diagrama:** [`mapa_conceptual.drawio`](./Tarea_1.1/Diagramas/mapa_conceptual.drawio)
+*  **Tabla Comparativa** [`Tabla.md`](./Tarea_1.1/Tablas/Tabla.md) 
 * 🎥 **Video Explicativo en YouTube:** [Ver Exposición en YouTube]([suspicious link removed]) *(Captura + Cámara Web)*
 
 --- 
