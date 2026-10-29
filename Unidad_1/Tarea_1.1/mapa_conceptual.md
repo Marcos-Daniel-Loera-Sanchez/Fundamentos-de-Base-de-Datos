@@ -1,3 +1,4 @@
+```mermaid
 graph TD 
 BD [Bases de Datos] --> CON[Conceptos Clave] 
 BD --> OBJ[Objetivos Principales] 
@@ -16,3 +17,4 @@ APP --> A1[Sistemas Bancarios y Financieros]
 APP --> A2[Comercio Electrónico] 
 APP --> A3[Sector Salud] 
 APP --> A4[Gestión Educativa]
+```
