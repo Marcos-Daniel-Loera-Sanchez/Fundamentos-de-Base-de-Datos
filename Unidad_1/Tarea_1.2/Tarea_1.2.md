@@ -1,4 +1,4 @@
-
+[⬅️ Volver al README Principal](../README.md) 
 # Tarea 1.2: Clasificación y Arquitecturas (ANSI/SPARC y SGBD) 
 **Asignatura:** Fundamentos de Bases de Datos 
 
