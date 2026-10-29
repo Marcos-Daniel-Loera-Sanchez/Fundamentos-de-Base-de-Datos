@@ -4,7 +4,7 @@
 --- 
 
 ## 📋 Índice de Actividades y Entregables 
-### 🔹 [Actividad 1.1: Fundamentos, Objetivos y Modelos de BD](./Tarea_1.1/)  
+### 🔹 [Actividad 1.1: Fundamentos, Objetivos y Modelos de BD](./Tarea_1.1/README.md)  
 * 📄 **Reporte en Código Markdown:** [`Tarea_1_1.md`](./Tarea_1.1/Tarea_1_1.md)
 * 📄 **Documento PDF Formal:** [`Reporte_Tarea_1_1.pdf`](./Tarea_1.1/Reporte_Tarea_1_1.pdf)
 * ✏️ **Fuente Editable del Diagrama:** [`mapa\_conceptual.drawio`](./Tarea_1.1/diagramas/mapa_conceptual.drawio)
@@ -12,7 +12,7 @@
 
 --- 
 
-### 🔹 [Actividad 1.2: Clasificación y Arquitecturas (ANSI/SPARC y SGBD)](./Tarea_1.2/) 
+### 🔹 [Actividad 1.2: Clasificación y Arquitecturas (ANSI/SPARC y SGBD)](./Tarea_1.2/README.md) 
 * 📄 **Reporte en Código Markdown:** [`Tarea_1_2.md`](./Tarea_1.2/Tarea_1_2.md)
 * 📄 **Documento PDF Formal:** [`Reporte_Tarea_1_2.pdf`](./Tarea_1.2/Reporte_Tarea_1_2.pdf)
 * ✏️ **Fuentes Editables de Arquitecturas:**
