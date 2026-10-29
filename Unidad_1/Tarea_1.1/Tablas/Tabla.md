@@ -1,3 +1,4 @@
+[⬅️ Volver al README anterior](../README.md) 
 Tabla Comparativa de Modelos de Bases de Datos 
 | Modelo de Base de Datos | Definición | Forma de Representación de Datos | 
 | :--- | :--- | :--- | 
