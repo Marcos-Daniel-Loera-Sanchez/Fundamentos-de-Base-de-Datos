@@ -12,8 +12,7 @@
 
 --- 
 
-### 🔹 [Actividad 1.2: Clasificación y Arquitecturas 
-(ANSI/SPARC y SGBD)](./Tarea_1.2/) 
+### 🔹 [Actividad 1.2: Clasificación y Arquitecturas (ANSI/SPARC y SGBD)](./Tarea_1.2/) 
 * 📄 **Reporte en Código Markdown:** [`Tarea_1_2.md`](./Tarea_1.2/Tarea_1_2.md)
 * 📄 **Documento PDF Formal:** [`Reporte_Tarea_1_2.pdf`](./Tarea_1.2/Reporte_Tarea_1_2.pdf)
 * ✏️ **Fuentes Editables de Arquitecturas:**
