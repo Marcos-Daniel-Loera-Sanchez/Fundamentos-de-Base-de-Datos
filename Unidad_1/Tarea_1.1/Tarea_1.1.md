@@ -1,4 +1,4 @@
-[⬅️ Volver al README anterior](../Unidad_1/README.md) 
+[⬅️ Volver al README anterior](../README.md) 
 # Tarea 1.1: Fundamentos, Objetivos y Modelos de Bases de Datos 
 
 **Asignatura:** Fundamentos y Arquitectura de Bases de Datos 
