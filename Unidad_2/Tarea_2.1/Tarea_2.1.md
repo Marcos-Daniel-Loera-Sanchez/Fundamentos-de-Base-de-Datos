@@ -26,6 +26,7 @@ Se presenta el diseño conceptual para el **Sistema de Gestión de una Clínica 
 ---
 
 ## 3. Diagrama Entidad-Relación y E-R Extendido (Mermaid)
+¡[](./Diagramas/modelo_E-R.md)
 
 ```mermaid
 erDiagram
