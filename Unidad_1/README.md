@@ -6,7 +6,7 @@
 ## 📋 Índice de Actividades y Entregables 
 ### 🔹 [Actividad 1.1: Fundamentos, Objetivos y Modelos de BD](./Tarea_1.1/README.md)  
 * 📄 **Reporte en Código Markdown:** [`Tarea_1_1.md`](./Tarea_1.1/Tarea_1.1.md)
-* 📄 **Documento PDF Formal:** [`Reporte_Tarea_1_1.pdf`](./Tarea_1.1/Reporte_Tarea_1.1.pdf)
+* 📄 **Documento PDF Formal:** [`Reporte_Tarea_1_1.pdf`](./Tarea_1.1/Tarea_1.1.pdf)
 * 🖼️ **Imagen Visual** [`mapa_conceptual.svg`](./Tarea_1.1/Diagramas/mapa_conceptual.svg)
 * ✏️ **Fuente Editable del Diagrama:** [`mapa_conceptual.drawio`](./Tarea_1.1/Diagramas/mapa_conceptual.drawio)
 *  **Tabla Comparativa** [`Tabla.md`](./Tarea_1.1/Tablas/Tabla.md) 
@@ -16,7 +16,7 @@
 
 ### 🔹 [Actividad 1.2: Clasificación y Arquitecturas (ANSI/SPARC y SGBD)](./Tarea_1.2/README.md) 
 * 📄 **Reporte en Código Markdown:** [`Tarea_1_2.md`](./Tarea_1.2/Tarea_1.2.md)
-* 📄 **Documento PDF Formal:** [`Reporte_Tarea_1_2.pdf`](./Tarea_1.2/Reporte_Tarea_1.2.pdf)
+* 📄 **Documento PDF Formal:** [`Reporte_Tarea_1_2.pdf`](./Tarea_1.2/Tarea_1.2.pdf)
 * 🖼️ **Imagen Visual:**
 * [`cuadro_sinoptico.svg`](./Tarea\_1.2/diagramas/cuadro\_sinoptico.svg) 
 * [`arquitectura_ansi_sparc.svg`](./Tarea\_1.2/diagramas/arquitectura\_ansi\_sparc.svg) 
