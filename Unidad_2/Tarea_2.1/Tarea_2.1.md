@@ -78,13 +78,13 @@ erDiagram
         string nombre_comercial
         string sustancia_activa
     }
-```
     %% Relaciones y Cardinalidades
     ESPECIALIDAD ||--|{ MEDICO : "adscribe (1:N)"
     PACIENTE ||--o{ CITA : "solicita (1:N)"
     MEDICO ||--o{ CITA : "atiende (1:N)"
     PACIENTE ||--|| EXPEDIENTE_CLINICO : "posee (1:1)"
     CITA }|--|{ MEDICAMENTO : "prescribe en receta (N:M)"
+```
 ## 5\. Enlaces de Entregables
 
 * 🎥 **Video Explicativo en YouTube:** [Ver Exposición en YouTube]([suspicious link removed]) *(Reemplazar con tu enlace con cámara activa)*
