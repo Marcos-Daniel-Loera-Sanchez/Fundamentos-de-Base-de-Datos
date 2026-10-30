@@ -1,3 +1,4 @@
+[⬅️ Volver al README anterior](../README.md) 
 # Tarea 2.1: Modelado Conceptual E-R y E-R Extendido de un Caso Real
 
 **Asignatura:** Fundamentos y Arquitectura de Bases de Datos  
