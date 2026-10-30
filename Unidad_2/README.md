@@ -7,8 +7,8 @@
 ## 📋 Índice de Actividades y Entregables
 
 ### 🔹 Actividad 2.1: Modelado Conceptual E-R y E-R Extendido de un Caso Real
-* 📄 **Reporte Técnico (Markdown):** [`Tarea_2_1.md`](./Tarea_2.1/Tarea_2_1.md)
-* 📄 **Reporte Formal (PDF):** [`Reporte_Tarea_2_1.pdf`](./Tarea_2.1/Reporte_Tarea_2_1.pdf)
+* 📄 **Reporte Técnico (Markdown):** [`Tarea_2_1.md`](./Tarea_2.1/Tarea_2.1.md)
+* 📄 **Reporte Formal (PDF):** [`Reporte_Tarea_2_1.pdf`](./Tarea_2.1/Reporte_Tarea_2.1.pdf)
 * 🎥 **Video Explicativo en YouTube:** [Ver Exposición en YouTube]([suspicious link removed]) *(Reemplazar con tu enlace con cámara activa)*
 
 #### Diagrama Entidad-Relación y E-R Extendido:
@@ -82,8 +82,8 @@ erDiagram
 
 ### 🔹 Actividad 2.2: Transición de Diagrama E-R a Notación UML
 
-* 📄 **Reporte Técnico (Markdown):** [Tarea\_2\_2.md](./Tarea%5F2.2/Tarea%5F2%5F2.md)
-* 📄 **Reporte Formal (PDF):** [Reporte\_Tarea\_2\_2.pdf](./Tarea%5F2.2/Reporte%5FTarea%5F2%5F2.pdf)
+* 📄 **Reporte Técnico (Markdown):** [Tarea_2_2.md](./Tarea2.2/Tarea.md)
+* 📄 **Reporte Formal (PDF):** [Reporte_Tarea_2_2.pdf](./Tarea2.2/Reporte_Tarea.pdf)
 * 🎥 **Video Explicativo en YouTube:** [Ver Exposición en YouTube]([suspicious link removed]) *(Reemplazar con tu enlace con cámara activa)*
 
 #### Diagrama de Clases UML:
