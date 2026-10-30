@@ -88,7 +88,7 @@ erDiagram
 
 #### Diagrama de Clases UML:
 
-```
+```mermaid
 classDiagram
     class Paciente {
         -int idPaciente
