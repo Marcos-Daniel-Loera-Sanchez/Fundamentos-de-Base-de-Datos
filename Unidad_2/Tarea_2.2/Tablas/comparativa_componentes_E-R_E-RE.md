@@ -1,5 +1,5 @@
 [⬅️ Volver al README anterior](../../README.md)
-# 4. Tabla Comparativa de Componentes E-R / E-RE
+# 4. Tabla Mapeo Directo: Modelo E-R vs. Notación UML
 
 | Concepto en Modelo E-R / E-RE | Equivalente en Notación UML | Análisis de Correspondencia Técnica |
 | :--- | :--- | :--- |
