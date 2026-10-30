@@ -6,11 +6,10 @@
 
 ## 📋 Índice de Actividades y Entregables
 
-### 🔹 Actividad 2.1: Modelado Conceptual E-R y E-R Extendido (Caso Real Clínica)
+### 🔹 Actividad 2.1: Modelado Conceptual E-R y E-R Extendido de un Caso Real
 * 📄 **Reporte Técnico (Markdown):** [`Tarea_2_1.md`](./Tarea_2.1/Tarea_2_1.md)
 * 📄 **Reporte Formal (PDF):** [`Reporte_Tarea_2_1.pdf`](./Tarea_2.1/Reporte_Tarea_2_1.pdf)
-* 🎥 **Video Explicativo:** [Ver Exposición en YouTube]([suspicious link removed]) *(Reemplazar con tu enlace)*
-* ✏️ **Fuente Editable Draw.io:** [`diagrama_er_clinica.drawio`](./Tarea_2.1/diagramas/diagrama_er_clinica.drawio)
+* 🎥 **Video Explicativo en YouTube:** [Ver Exposición en YouTube]([suspicious link removed]) *(Reemplazar con tu enlace con cámara activa)*
 
 #### Diagrama Entidad-Relación y E-R Extendido:
 ```mermaid
@@ -85,8 +84,7 @@ erDiagram
 
 * 📄 **Reporte Técnico (Markdown):** [Tarea\_2\_2.md](./Tarea%5F2.2/Tarea%5F2%5F2.md)
 * 📄 **Reporte Formal (PDF):** [Reporte\_Tarea\_2\_2.pdf](./Tarea%5F2.2/Reporte%5FTarea%5F2%5F2.pdf)
-* 🎥 **Video Explicativo:** [Ver Exposición en YouTube]([suspicious link removed]) *(Reemplazar con tu enlace)*
-* ✏️ **Fuente Editable Draw.io:** [diagrama\_uml\_clases.drawio](./Tarea%5F2.2/diagramas/diagrama%5Fuml%5Fclases.drawio)
+* 🎥 **Video Explicativo en YouTube:** [Ver Exposición en YouTube]([suspicious link removed]) *(Reemplazar con tu enlace con cámara activa)*
 
 #### Diagrama de Clases UML:
 
