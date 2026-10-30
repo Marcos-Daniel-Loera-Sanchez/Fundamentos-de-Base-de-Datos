@@ -1,3 +1,4 @@
+[⬅️ Volver al README anterior](../README.md) 
 ## 📌 Actividad 2.2: Transición de Diagrama E-R a Notación UML
 
 ### 1. Introducción al Mapeo E-R a UML
