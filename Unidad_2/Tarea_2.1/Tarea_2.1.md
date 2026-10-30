@@ -1,7 +1,7 @@
 [⬅️ Volver al README anterior](../README.md) 
 # Tarea 2.1: Modelado Conceptual E-R y E-R Extendido de un Caso Real
 
-**Asignatura:** Fundamentos y Arquitectura de Bases de Datos  
+**Asignatura:** Fundamentos de Bases de Datos  
 **Unidad 2:** Diseño de Bases de Datos con el modelo E-R  
 **Estudiante:** Marcos Daniel Loera Sanchez  
 **Profesor:** [Nombre del Docente]  
