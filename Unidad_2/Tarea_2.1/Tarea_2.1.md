@@ -25,6 +25,7 @@ Se presenta el diseño conceptual para el **Sistema de Gestión de una Clínica 
 
 ---
 
+## 3. Diagrama Entidad-Relación y E-R Extendido
 * **Diagrama Entidad-Relación y E-R Extendido** [`modelo_E-R`](./Tarea_2.1/Diagramas/modelo_E-R.md)
 
 ## 5\. Enlaces de Entregables
