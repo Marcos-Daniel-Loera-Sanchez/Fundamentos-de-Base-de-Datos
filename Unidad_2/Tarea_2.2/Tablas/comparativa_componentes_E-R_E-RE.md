@@ -1,4 +1,4 @@
-[⬅️ Volver al README anterior](../README.md)
+[⬅️ Volver al README anterior](../../Unidad__README.md)
 # 4. Tabla Comparativa de Componentes E-R / E-RE
 | Componente E-R | Elemento del Caso Real | Descripción y Clasificación |
 | :--- | :--- | :--- |
