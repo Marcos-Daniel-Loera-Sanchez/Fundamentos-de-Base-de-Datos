@@ -1,4 +1,4 @@
-[⬅️ Volver al README anterior](./Unidad_2/README.md) 
+[⬅️ Volver al README anterior](../README.md) 
 
 4. Tabla Comparativa de Componentes E-R / E-RE
 
