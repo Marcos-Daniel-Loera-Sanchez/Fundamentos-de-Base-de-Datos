@@ -1,6 +1,6 @@
 ## 📌 Actividad 2.2: Transición de Diagrama E-R a Notación UML
 
-### 1\. Introducción al Mapeo E-R a UML
+### 1. Introducción al Mapeo E-R a UML
 
 En este desarrollo se realiza la transformación conceptual del modelo Entidad-Relación hacia el **Diagrama de Clases UML**, estableciendo la correspondencia entre objetos de base de datos y componentes orientados a objetos.
 
@@ -8,10 +8,9 @@ En este desarrollo se realiza la transformación conceptual del modelo Entidad-R
 * **Diagrama de Clases UML (Mermaid)**[`diagrama_uml_clases`](./Tarea_2.2/Diagramas/diagrama_uml_clases.md)
   
 ## 3. Tabla de Mapeo Directo: Modelo E-R vs. Notación UML
-* **Tabla de Mapeo Directo: Modelo E-R vs. Notación UML**[`mapeo_directo`](./Tarea_2.2
-/Tablas/mapeo_directo.md)
+* **Tabla de Mapeo Directo: Modelo E-R vs. Notación UML**[`mapeo_directo`](./Tarea_2.2/Tablas/mapeo_directo.md)
 
-### 4\. Entregables y Enlaces
+### 4. Entregables y Enlaces
 
 * 📄 **Reporte Formal en PDF:** [Reporte\_Tarea\_2\_2.pdf](./Tarea2.2/ReporteTarea.pdf)
 * 🎥 **Video Explicativo:** [Ver Exposición en YouTube]([suspicious link removed]) *(Reemplazar con tu enlace)*
