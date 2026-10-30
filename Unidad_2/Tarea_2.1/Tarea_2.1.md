@@ -29,7 +29,7 @@ Se presenta el diseño conceptual para el **Sistema de Gestión de una Clínica 
 * **Diagrama Entidad-Relación y E-R Extendido** [`modelo_E-R`](./Diagramas/modelo_E-R.md)
 
 ## 4. Tabla Comparativa de Componentes E-R / E-RE
-* **Tabla Comparativa E-R / E-RE** [`Comparativa_E-R_E-RE`](./Tarea_2.1/Diagramas/Comparativa_E-R_E-RE.md)
+* **Tabla Comparativa E-R / E-RE** [`Comparativa_E-R_E-RE`](./Diagramas/Comparativa_E-R_E-RE.md)
 
 ## 5. Enlaces de Entregables
 
