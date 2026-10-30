@@ -1,4 +1,4 @@
-#4. Tabla Comparativa de Componentes E-R / E-RE
+4. Tabla Comparativa de Componentes E-R / E-RE
 
 |Componente E-R | Elemento del Caso Real | Descripción y Clasificación |
 | :--- | :--- | :--- |
