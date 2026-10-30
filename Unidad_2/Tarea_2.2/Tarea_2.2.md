@@ -12,7 +12,7 @@ En este desarrollo se realiza la transformación conceptual del modelo Entidad-R
 
 ### 4. Entregables y Enlaces
 
-* 📄 **Reporte Formal en PDF:** [Reporte\_Tarea\_2\_2.pdf](./Tarea2.2/ReporteTarea.pdf)
+* 📄 **Reporte Formal en PDF:** [Reporte\_Tarea\_2\_2.pdf](./Tarea2.2/Tarea_2.2.pdf)
 * 🎥 **Video Explicativo:** [Ver Exposición en YouTube]([suspicious link removed]) *(Reemplazar con tu enlace)*
 
 ---
