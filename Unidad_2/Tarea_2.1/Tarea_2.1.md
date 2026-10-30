@@ -26,16 +26,19 @@ Se presenta el diseño conceptual para el **Sistema de Gestión de una Clínica 
 ---
 
 ## 3. Diagrama Entidad-Relación y E-R Extendido
-* **Diagrama Entidad-Relación y E-R Extendido** [`modelo_E-R`](./Tarea_2.1/Diagramas/modelo_E-R.md)
+* **Diagrama Entidad-Relación y E-R Extendido** [`modelo_E-R`](./Diagramas/modelo_E-R.md)
 
-## 5\. Enlaces de Entregables
+## 4. Tabla Comparativa de Componentes E-R / E-RE
+* **Tabla Comparativa E-R / E-RE** [`Comparativa_E-R_E-RE`](./Diagramas/Comparativa_E-R_E-RE.md)
+
+## 5. Enlaces de Entregables
 
 * 🎥 **Video Explicativo en YouTube:** [Ver Exposición en YouTube]([suspicious link removed]) *(Reemplazar con tu enlace con cámara activa)*
 * 📂 **Repositorio Público de GitHub:** [Ver archivos en GitHub](https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fgithub.com) *(Reemplazar con tu enlace)*
 
 ---
 
-## 6\. Referencias Bibliográficas (APA 7ª ed.)
+## 6. Referencias Bibliográficas (APA 7ª ed.)
 
 * Date, C. J. (2004). *An Introduction to Database Systems* (8th ed.). Addison-Wesley.
 * Elmasri, R., &amp; Navathe, S. B. (2017). *Fundamentals of Database Systems* (7th ed.). Pearson.
