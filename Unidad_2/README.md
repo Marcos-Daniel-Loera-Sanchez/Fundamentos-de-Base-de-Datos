@@ -18,7 +18,7 @@
 ### 🔹 Actividad 2.2: Transición de Diagrama E-R a Notación UML
 
 * 📄 **Reporte Técnico (Markdown):** [`Tarea_2_2`](./Tarea_2.2/Tarea_2.2.md)
-* 📄 **Reporte Formal (PDF)** [`Reporte_Tarea_2_2`](./Tarea_2.2/Reporte_Tarea.pdf)
+* 📄 **Reporte Formal (PDF)** [`Reporte_Tarea_2_2`](./Tarea_2.2/Tarea_2.2.pdf)
 * 📄**Diagrama de Clases UML** [`diagrama_uml_clases`](./Tarea_2.2/Diagramas/diagrama_uml_clases.md)
 * 📋**Tabla Mapeo Directo: Modelo E-R vs. Notación UML**[`mapeo_directo`](./Tarea_2.2/Tablas/mapeo_directo.md)
 * 🎥 **Video Explicativo en YouTube:** [Ver Exposición en YouTube]([suspicious link removed]) *(Reemplazar con tu enlace con cámara activa)*
