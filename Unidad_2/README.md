@@ -9,10 +9,11 @@
 ### 🔹 Actividad 2.1: Modelado Conceptual E-R y E-R Extendido de un Caso Real
 * 📄 **Reporte Técnico (Markdown):** [`Tarea_2_1.md`](./Tarea_2.1/Tarea_2.1.md)
 * 📄 **Reporte Formal (PDF):** [`Reporte_Tarea_2_1.pdf`](./Tarea_2.1/Reporte_Tarea_2.1.pdf)
+* 📄 **Diagrama Entidad-Relación y E-R Extendido** [`modelo_E-R`](./Tarea_2.1/Diagramas/modelo_E-R)
+* 📋 **Tabla Comparativa de Componentes E-R / E-RE [Comparativa_E-R_E-RE](./Tarea_2.1/Diagramas/Tablas/Comparativa_E-R_E-RE.md)
 * 🎥 **Video Explicativo en YouTube:** [Ver Exposición en YouTube]([suspicious link removed]) *(Reemplazar con tu enlace con cámara activa)*
 
-#### Diagrama Entidad-Relación y E-R Extendido:
-[modelo_E-R](./Diagramas/modelo_E-R)
+
 
 ### 🔹 Actividad 2.2: Transición de Diagrama E-R a Notación UML
 
