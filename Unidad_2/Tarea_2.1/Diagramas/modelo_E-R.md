@@ -1,3 +1,4 @@
+Hola
 ```mermaid
 erDiagram
     PACIENTE {
