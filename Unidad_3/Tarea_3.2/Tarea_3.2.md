@@ -34,7 +34,7 @@ En este entregable se presenta la implementación física en SGBD mediante sente
 
 * 🎥 **Video en YouTube (Demostración de Ejecución en SGBD):** [Ver Video Demostrativo]([suspicious link removed]) *(Con cámara web en la esquina inferior derecha)* [2, 5]
 * 📂 **Script SQL en GitHub:** [`schema.sql`](./schema.sql) [5]
-* 📄 **Reporte Formal en PDF:** [`Reporte_Tarea_3_2.pdf`](./Reporte_Tarea_3_2.pdf) [4]
+* 📄 **Reporte Formal en PDF:** [`Reporte_Tarea_3_2.pdf`](./Tarea_3.2.pdf) [4]
 
 ---
 
