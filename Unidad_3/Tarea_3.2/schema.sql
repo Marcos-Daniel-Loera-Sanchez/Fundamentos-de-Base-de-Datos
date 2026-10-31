@@ -1,6 +1,6 @@
 -- ============================================================
 -- SCRIPT DE CREACIÓN DE BASE DE DATOS Y TABLAS (T-SQL / SQL SERVER)
--- Materia: Fundamentos y Arquitectura de Bases de Datos
+-- Materia: Fundamentos de Bases de Datos
 -- Estudiante: Marcos Daniel Loera Sanchez (Matrícula: I24050383)
 -- Unidad 3: Modelo Relacional - Caso Clínica Médica
 -- ============================================================
