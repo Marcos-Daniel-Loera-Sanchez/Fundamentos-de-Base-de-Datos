@@ -7,7 +7,7 @@
 ## 📋 Índice de Actividades y Entregables
 
 ### 🔹 Actividad 3.1: Transformación de Modelo E-R a Esquema Relacional y Reglas de Integridad
-* 📄 **Reporte Técnico (Markdown):** [`Tarea_3_1.md`](./Tarea_3.1/Tarea_3_1.md)
+* 📄 **Reporte Técnico (Markdown):** [`Tarea_3_1.md`](./Tarea_3.1/Tarea_3.1.md)
 * 📄 **Reporte Formal (PDF):** [`Reporte_Tarea_3.1.pdf`](./Tarea_3.1/Tarea_3.1.pdf)
 * 📄 **Diagrama Relación Tabular** [`relacion_tabular`](./Tarea_3.1/Diagramas/relación_tabular.md)
 * 📋 **Tabla Componentes Formales y Restricciones de Integridad** [`Tabla_Componentes_F_y_RI`](./Tarea_3.1/Tablas/Tabla_Componentes_F_y_RI.md) 
