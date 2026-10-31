@@ -1,4 +1,3 @@
-[⬅️ Volver al README anterior](../../README.md)
 -- ============================================================
 -- SCRIPT DE CREACIÓN DE BASE DE DATOS Y TABLAS (T-SQL / SQL SERVER)
 -- Materia: Fundamentos y Arquitectura de Bases de Datos
