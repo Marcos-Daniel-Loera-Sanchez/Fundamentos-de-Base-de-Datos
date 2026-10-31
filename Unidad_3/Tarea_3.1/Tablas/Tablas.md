@@ -1,3 +1,4 @@
+[⬅️ Volver al README anterior](../../README.md)
 ## 2. Componentes Formales y Restricciones de Integridad 
 | Componente / Restricción | Definición Técnica | Aplicación en la BD Clínica |
 | :--- | :--- | :--- | 
