@@ -1,3 +1,4 @@
+[⬅️ Volver al README anterior](../README.md)
 # Tarea 3.2: Generación del Esquema Físico en SGBD y Script LDD
 
 **Asignatura:** Fundamentos de Bases de Datos  
