@@ -1,3 +1,4 @@
+[⬅️ Volver al README anterior](../README.md) 
 # Tarea 3.1: Transformación de Modelo E-R a Esquema Relacional y Reglas de Integridad
 
 **Asignatura:** Fundamentos y Arquitectura de Bases de Datos  
