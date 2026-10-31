@@ -16,7 +16,7 @@
 ---
 
 ### 🔹 Actividad 3.2: Generación del Esquema Físico en SGBD y Script LDD
-* 📄 **Reporte Técnico (Markdown):** [`Tarea_3_2.md`](./Tarea_3.2/Tarea_3_2.md)
+* 📄 **Reporte Técnico (Markdown):** [`Tarea_3_2.md`](./Tarea_3.2/Tarea_3.2.md)
 * 💾 **Script SQL DDL:** [`schema.sql`](./Tarea_3.2/schema.sql)
 * 📄 **Reporte Formal (PDF):** [`Reporte_Tarea_3.2.pdf`](./Tarea_3.2/Tarea_3.2.pdf)
 * 🎥 **Video Demostrativo en YouTube:** [Ver Demostración en SGBD]([suspicious link removed])
