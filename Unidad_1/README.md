@@ -10,7 +10,7 @@
 * 🖼️ **Imagen Visual** [`mapa_conceptual.svg`](./Tarea_1.1/Diagramas/mapa_conceptual.svg)
 * ✏️ **Fuente Editable del Diagrama:** [`mapa_conceptual.drawio`](./Tarea_1.1/Diagramas/mapa_conceptual.drawio)
 *  **Tabla Comparativa** [`Tabla.md`](./Tarea_1.1/Tablas/Tabla.md) 
-* 🎥 **Video Explicativo en YouTube:** [Ver Exposición en YouTube]([suspicious link removed]) *(Captura + Cámara Web)*
+* 🎥 **Video Explicativo en YouTube:** [`Ver Exposición en YouTube`](https://youtu.be/DSBfTc7k6bs)) 
 
 --- 
 
@@ -25,7 +25,7 @@
 * [`cuadro_sinoptico.drawio`](./Tarea\_1.2/diagramas/cuadro\_sinoptico.drawio) 
 * [`arquitectura_ansi_sparc.drawio`](./Tarea\_1.2/diagramas/arquitectura\_ansi\_sparc.drawio) 
 * [`arquitectura_sgbd.drawio`](/Tarea\_1.2/diagramas/arquitectura\_sgbd.drawio)
-* * 🎥 **Video Explicativo en YouTube:** [Ver Exposición en YouTube]([suspicious link removed]) *(Captura + Cámara Web)*
+* * 🎥 **Video Explicativo en YouTube:** [`Ver Exposición en YouTube`](https://youtu.be/7-4XkSZ8Qmo)
 
 --- 
 
