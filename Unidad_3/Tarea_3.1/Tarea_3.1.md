@@ -1,7 +1,7 @@
 [⬅️ Volver al README anterior](../README.md) 
 # Tarea 3.1: Transformación de Modelo E-R a Esquema Relacional y Reglas de Integridad
 
-**Asignatura:** Fundamentos y Arquitectura de Bases de Datos  
+**Asignatura:** Fundamentos de Bases de Datos  
 **Unidad 3:** Modelo Relacional  
 **Estudiante:** Marcos Daniel Loera Sanchez  
 **Matrícula:** I24050383  
@@ -37,15 +37,7 @@ El Modelo Relacional formaliza la estructura de datos mediante tablas (relacione
 
 ---
 
-## 5\. Enlaces de Entregables Digitales
-
-* 🎥 **Video Explicativo en YouTube:** [Ver Exposición en YouTube]([suspicious link removed]) *(Con cámara web visible en la esquina inferior derecha)*
-* 📂 **Repositorio Público de GitHub:** [Ver archivos en GitHub](https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fgithub.com)
-* 📄 **Reporte Formal en PDF:** [Reporte\_Tarea\_3\_1.pdf](./Reporte%5FTarea%5F3%5F1.pdf)
-
----
-
-## 6\. Referencias Bibliográficas (APA 7.ª ed.)
+## 5. Referencias Bibliográficas (APA 7.ª ed.)
 
 * Date, C. J. (2004). *An Introduction to Database Systems* (8th ed.). Addison-Wesley.
 * Elmasri, R., &amp; Navathe, S. B. (2017). *Fundamentals of Database Systems* (7th ed.). Pearson.
