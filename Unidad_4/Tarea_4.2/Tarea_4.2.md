@@ -1,3 +1,4 @@
+[⬅️ Volver al README anterior](../README.md) 
 # Tarea 4.2: Proceso Paso a Paso de Normalización del Proyecto Aplicado
 
 **Asignatura:** Fundamentos y Arquitectura de Bases de Datos  
