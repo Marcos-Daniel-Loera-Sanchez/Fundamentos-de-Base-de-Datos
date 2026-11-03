@@ -1,3 +1,4 @@
+[⬅️ Volver al README anterior](../README.md) 
 # Tarea 4.1: Fundamentos de Dependencias Funcionales y Mapa Conceptual de Formas Normales
 
 **Asignatura:** Fundamentos de Bases de Datos  
