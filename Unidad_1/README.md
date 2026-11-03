@@ -28,7 +28,3 @@
 * * 🎥 **Video Explicativo en YouTube:** [`Ver Exposición en YouTube`](https://youtu.be/7-4XkSZ8Qmo)
 
 --- 
-
-## 🛠️ Instrucciones para Revisar / Reproducir 
-1. Los reportes están desarrollados directamente en **Markdown** (`.md`) para lectura nativa en GitHub.
-2. Todos los diagramas cuentan con su archivo fuente en código `.drawio` en la carpeta `diagramas/` de cada tarea.
