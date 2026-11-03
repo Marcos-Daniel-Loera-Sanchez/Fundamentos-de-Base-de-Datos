@@ -1,7 +1,7 @@
 [⬅️ Volver al README anterior](../README.md) 
 # Tarea 4.2: Proceso Paso a Paso de Normalización del Proyecto Aplicado
 
-**Asignatura:** Fundamentos y Arquitectura de Bases de Datos  
+**Asignatura:** Fundamentos de Bases de Datos  
 **Unidad 4:** Normalización de Bases de Datos  
 **Estudiante:** Marcos Daniel Loera Sanchez  
 **Matrícula:** I24050383  
