@@ -53,7 +53,7 @@ graph TD
 | **FNBC** | Estar en 3FN y todo determinante $X \rightarrow Y$ debe ser una clave candidata. | Descomponer relaciones donde atributos no primarios determinen componentes de claves. |
 
 5. Enlaces de Entregables Digitales
-* 📄 **Reporte Formal (PDF):** [`Reporte_Tarea_4_1.pdf`](./Tarea_4.1/Tarea_4.1.pdf)
+* 📄 **Reporte Formal (PDF):** [`Reporte_Tarea_4_1.pdf`](./Tarea_4.1.pdf)
 
 6. Referencias Bibliográficas
 * Date, C. J. (2004). An Introduction to Database Systems (8th ed.). Addison-Wesley.
