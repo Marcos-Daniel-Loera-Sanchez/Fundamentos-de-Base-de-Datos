@@ -27,9 +27,9 @@ La teoría de dependencias funcionales (DF) establece la relación matemática e
 
 | Tipo de Dependencia | Definición Técnica | Aplicación en el Sistema Clínico |
 | :--- | :--- | :--- |
-| **Dependencia Total / Completa** | Y depende funcionalmente de la clave primaria compuesta X en su totalidad, y no de ningún subconjunto propio de esta. | En `receta_medicamento`: `(folio_cita, id_medicamento)` (rightarrow) `dosis`. |
-| **Dependencia Parcial** | \\(Y\\) depende de un subconjunto propio de una clave primaria compuesta \\(X\\). | En tabla plana: `(folio_cita, id_medicamento)` \\(\rightarrow\\) `sustancia_activa` (solo depende de `id_medicamento`). |
-| **Dependencia Transitiva** | \\(X \rightarrow Y\\) y \\(Y \rightarrow Z\\), donde \\(Z\\) depende de \\(X\\) indirectamente a través del atributo no clave \\(Y\\). | `cedula_medico` \\(\rightarrow\\) `id_especialidad` \\(\rightarrow\\) `nombre_especialidad`. |
+| **Dependencia Total / Completa** | Y depende funcionalmente de la clave primaria compuesta X en su totalidad, y no de ningún subconjunto propio de esta. | En `receta_medicamento`: `(folio_cita, id_medicamento)` $\rightarrow$ `dosis`. |
+| **Dependencia Parcial** | Y depende de un subconjunto propio de una clave primaria compuesta X. | En tabla plana: `(folio_cita, id_medicamento)` $\rightarrow$ `sustancia_activa` (solo depende de `id_medicamento`). |
+| **Dependencia Transitiva** | X $\rightarrow$ Y y Y $\rightarrow$ Z, donde Z depende de X indirectamente a través del atributo no clave Y. | `cedula_medico` $\rightarrow$ `id_especialidad` $\rightarrow$ `nombre_especialidad`. |
 
 ---
 
