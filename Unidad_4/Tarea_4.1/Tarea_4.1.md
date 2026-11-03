@@ -44,12 +44,14 @@ graph TD
     E -->|Eliminar dependencias multivaloradas| F[<b>Cuarta y Quinta Forma Normal: 4FN / 5FN</b><br/>Normalización avanzada n-aria]
 ```
 4. Reglas Formales para la Normalización
+
 | Forma Normal | Condición Exigida | Estrategia de Descomposición Aplicada |
 | :--- | :--- | :--- |
 | **1FN** | Atributos atómicos; sin grupos repetitivos ni arreglos. | Separar atributos multivalorados en tablas independientes con PK compuesta. |
 | **2FN** | Estar en 1FN y sin dependencias parciales respecto a la PK compuesta. | Extraer los atributos que dependen de parte de la llave hacia una nueva tabla. |
 | **3FN** | Estar en 2FN y sin dependencias transitivas entre atributos no clave. | Mover los determinantes intermedios $Y \rightarrow Z$ a su propia entidad relacional. |
 | **FNBC** | Estar en 3FN y todo determinante $X \rightarrow Y$ debe ser una clave candidata. | Descomponer relaciones donde atributos no primarios determinen componentes de claves. |
+
 5. Enlaces de Entregables Digitales
 * **📂 Repositorio Público de GitHub:** Ver repositorio en GitHub
 * **📄 Reporte Formal en PDF:** Reporte_Tarea_4_1.pdf6.
