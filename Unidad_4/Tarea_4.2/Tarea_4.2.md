@@ -51,7 +51,7 @@ REGISTRO_CONSULTAS_DESNORMALIZADO (
 
 ---
 
-## 5. Referencias Bibliográficas (APA 7.ª ed.)
+## 5. Referencias Bibliográficas
 
 * Date, C. J. (2004). *An Introduction to Database Systems* (8th ed.). Addison-Wesley.
 * Elmasri, R., &amp; Navathe, S. B. (2017). *Fundamentals of Database Systems* (7th ed.). Pearson.
