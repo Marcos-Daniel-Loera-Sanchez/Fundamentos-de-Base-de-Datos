@@ -22,7 +22,7 @@ La normalización de bases de datos es un proceso formal de diseño relacional d
 
 ## 2. Clasificación Formal de Dependencias Funcionales
 
-La teoría de dependencias funcionales (DF) establece la relación matemática entre atributos \\(X \rightarrow Y\\) (\\(X\\) determina funcionalmente a \\(Y\\)):
+La teoría de dependencias funcionales (DF) establece la relación matemática entre atributos ----> determina funcionalmente X a Y:
 
 | Tipo de Dependencia | Definición Técnica | Aplicación en el Sistema Clínico |
 | :--- | :--- | :--- |
