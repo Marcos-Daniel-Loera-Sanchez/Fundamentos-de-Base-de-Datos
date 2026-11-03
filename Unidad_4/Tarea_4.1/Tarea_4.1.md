@@ -55,7 +55,7 @@ graph TD
 5. Enlaces de Entregables Digitales
 * 📄 **Reporte Formal (PDF):** [`Reporte_Tarea_4_1.pdf`](./Tarea_4.1/Tarea_4.1.pdf)
 
-* **Referencias Bibliográficas**
+6. Referencias Bibliográficas
 * Date, C. J. (2004). An Introduction to Database Systems (8th ed.). Addison-Wesley.
 * Elmasri, R., & Navathe, S. B. (2017). Fundamentals of Database Systems (7th ed.). Pearson.
 * Silberschatz, A., Korth, H. F., & Sudarshan, S. (2020). Database System Concepts (7th ed.). McGraw-Hill.
