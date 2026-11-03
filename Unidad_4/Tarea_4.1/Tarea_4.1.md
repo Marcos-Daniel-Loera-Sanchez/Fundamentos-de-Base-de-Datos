@@ -33,7 +33,7 @@ La teoría de dependencias funcionales (DF) establece la relación matemática e
 
 ---
 
-## 3. Mapa Conceptual de Formas Normales (Mermaid)
+## 3. Mapa Conceptual de Formas Normales
 
 ```mermaid
 graph TD
