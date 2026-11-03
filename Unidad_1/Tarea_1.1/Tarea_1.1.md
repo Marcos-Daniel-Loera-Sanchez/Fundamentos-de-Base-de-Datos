@@ -53,13 +53,7 @@ El presente reporte analiza los conceptos fundamentales, los objetivos principal
 
 --- 
 
-## 5. Enlaces de Entregables 
-* 🎥 **Video Explicativo en YouTube:** [Ver exposición en YouTube]([suspicious link removed]) *(Reemplazar con tu enlace público)*
-* 📂 **Repositorio de GitHub:** [Ver archivos fuente](https://github.com) *(Reemplazar con tu enlace)*
-
---- 
-
-## 6. Referencias Bibliográficas (Formato APA) 
+## 5. Referencias Bibliográficas (Formato APA) 
 * Date, C. J. (2004). *An Introduction to Database Systems* (8th ed.). Addison-Wesley.
 * Elmasri, R., &amp; Navathe, S. B. (2017). *Fundamentals of Database Systems* (7th ed.). Pearson.
 * Silberschatz, A., Korth, H. F., &amp; Sudarshan, S. (2020). *Database System Concepts* (7th ed.). McGraw-Hill.
