@@ -46,8 +46,8 @@ REGISTRO_CONSULTAS_DESNORMALIZADO (
 
 ## 4. Enlaces de Entregables Digitales
 
-* 💾 **Script SQL Normalizado en GitHub:** [normalized\_schema.sql](./normalized%5Fschema.sql)
-* 📄 **Reporte Formal en PDF:** [Reporte\_Tarea\_4\_2.pdf](./Reporte%5FTarea%5F4%5F2.pdf)
+* 💾 **Script SQL Normalizado en GitHub:** [normalized_schema.sql](./Tarea_4.2/normalized_schema.sql)
+* 📄 **Reporte Formal en PDF:** [Tarea_4.2](./Tarea_4.2/Tarea_4.2.pdf)
 
 ---
 
