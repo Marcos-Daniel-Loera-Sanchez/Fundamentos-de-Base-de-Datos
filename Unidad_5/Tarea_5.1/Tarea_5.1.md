@@ -43,7 +43,7 @@ El álgebra relacional es un lenguaje de consulta procedimental teórico que def
 
 1. **Proyección Generalizada:** Permite expresiones aritméticas y funciones sobre atributos proyectados.
 2. **Funciones de Agregación ($\mathcal{G}$):** Aplica operaciones estadísticas sobre grupos de datos ($COUNT, SUM, AVG, MAX, MIN$).
-   * **Notación:** $_{\text{agrupación}}\mathcal{G}_{\text{función}(\text{atributo})}(R)$
+   * **Notación:** $_{text{agrupación}}mathcal{G}_{text{función}(text{atributo})}(R)$
 3. **Reuniones Externas (Outer Joins):**
    * **Left Outer Join ($R \mathbb{\rtimes} S$):** Conserva todas las tuplas de la relación izquierda $R$, rellenando con $NULL$ si no hay coincidencia en $S$.
    * **Right Outer Join ($R \mathbb{\ltimes} S$):** Conserva todas las tuplas de la relación derecha $S$.
