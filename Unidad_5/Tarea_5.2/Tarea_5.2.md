@@ -43,7 +43,7 @@
 ### Consulta 7: Conteo de Citas por Paciente (Agregación)
 * **Lenguaje Natural:** Calcular la cantidad total de citas agendadas por cada paciente.
 * **Fórmula Algebraica:**  
-  $$_{id\_paciente}\mathcal{G}_{COUNT(folio\_cita)}(CITA)$$
+  $$\_{id\\\_paciente}\\mathcal{G}\_{COUNT(folio\\\_cita)}(CITA)$$
 
 ### Consulta 8: Pacientes sin Citas Registradas (Left Outer Join)
 * **Lenguaje Natural:** Listar a todos los pacientes registrados, incluyendo aquellos que aún no tienen citas agendadas.
