@@ -13,7 +13,7 @@ Haga clic en cualquiera de las unidades para acceder a la documentación, códig
 * 📂 [**Unidad 3: Modelo Relacional**](./Unidad_3/README.md) 
 * 📂 [**Unidad 4: Normalización de Bases de Datos**](./Unidad_4/README.md) 
 * 📂 [**Unidad 5: Nombre de la Unidad 5**](./Unidad_5/README.md) *(Próximamente)*
-* 📂 [**Unidad 6: Nombre de la Unidad 6**](./Unidad_6/README.md) *(Próximamente)*
+* 📂 [**Unidad 6: Introducción al Lenguaje SQL**](./Unidad_6/README.md) 
 ---
 
 ## 🛠️ Tecnologías y Herramientas Utilizadas 
