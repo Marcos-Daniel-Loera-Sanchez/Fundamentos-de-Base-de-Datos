@@ -53,5 +53,4 @@ graph TD
 
 ## 4. Enlaces de Entregables Digitales
 
-* 📂 **Repositorio Público de GitHub:** [Ver repositorio en GitHub](https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fgithub.com)
-* 📄 **Reporte Formal en PDF:** [Reporte\_Tarea\_6\_1.pdf](./Reporte%5FTarea%5F6%5F1.pdf)
+* 📄 **Reporte Formal en PDF:** [`Tarea_6_1.pdf`](./Tarea_5.1.pdf)
