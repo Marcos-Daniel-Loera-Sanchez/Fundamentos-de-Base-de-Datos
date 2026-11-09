@@ -1,3 +1,4 @@
+[⬅️ Volver al README anterior](../README.md) 
 # Tarea 6.2: Implementación de Script DDL, Carga de Datos y Consultas DML
 
 **Asignatura:** Fundamentos y Arquitectura de Bases de Datos  
