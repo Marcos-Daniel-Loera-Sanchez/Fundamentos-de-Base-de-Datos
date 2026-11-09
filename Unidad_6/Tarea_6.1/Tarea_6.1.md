@@ -1,3 +1,4 @@
+[⬅️ Volver al README anterior](../README.md) 
 # Tarea 6.1: Sintaxis y Clasificación de Sentencias SQL (LDD y LMD)
 
 **Asignatura:** Fundamentos de Bases de Datos  
