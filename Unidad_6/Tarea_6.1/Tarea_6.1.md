@@ -1,6 +1,6 @@
 # Tarea 6.1: Sintaxis y Clasificación de Sentencias SQL (LDD y LMD)
 
-**Asignatura:** Fundamentos y Arquitectura de Bases de Datos  
+**Asignatura:** Fundamentos de Bases de Datos  
 **Unidad 6:** Introducción al Lenguaje SQL  
 **Estudiante:** Marcos Daniel Loera Sanchez  
 **Matrícula:** I24050383  
