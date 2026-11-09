@@ -54,4 +54,4 @@ graph TD
 
 ## 4. Enlaces de Entregables Digitales
 
-* 📄 **Reporte Formal en PDF:** [`Tarea_6_1.pdf`](./Tarea_5.1.pdf)
+* 📄 **Reporte Formal en PDF:** [`Tarea_6.1.pdf`](./Tarea_6.1.pdf)
