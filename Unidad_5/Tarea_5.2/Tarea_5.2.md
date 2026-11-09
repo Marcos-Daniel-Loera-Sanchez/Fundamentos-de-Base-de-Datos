@@ -1,3 +1,4 @@
+[⬅️ Volver al README anterior](../README.md) 
 # Tarea 5.2: Resolución de Consultas sobre el Esquema Relacional con Álgebra Formal
 
 **Asignatura:** Fundamentos de Bases de Datos  
